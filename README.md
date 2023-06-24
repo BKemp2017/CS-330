@@ -3,11 +3,11 @@
 
 ## Introduction
 
-Welcome to my GitHub repository! This ReadMe section provides insights into my approach to designing software and developing programs, as well as the strategies I employed in this project. Let's dive in!
+Welcome to my GitHub CS-330 repository! This ReadMe section provides insights into my approach to designing the Final Project for the 3D Scene, as well as the strategies I employed in this project. Let's dive in!
 
 ## Design Approach
 
-In designing software, I follow a holistic approach that prioritizes user needs and intuitive experiences. Through thorough research and analysis, I aim to understand the target audience and define clear goals for the software. During this project, I honed my design skills in user interface (UI), interaction, and visual design.
+In designing the scene, I followed a holistic approach that prioritizes user needs and intuitive experiences. Through thorough research and analysis, I aim to understand the target audience and define clear goals for the software. During this project, I honed my design skills in user interface (UI), interaction, and visual design within OpenGL.
 
 ## Design Process
 
@@ -15,7 +15,7 @@ I followed a well-defined design process for this project. Starting with require
 
 ## Development Approach
 
-When developing programs, I adopt a systematic and structured approach. By defining project requirements and breaking them into manageable tasks, I ensure effective planning and organization. Throughout this project, I utilized modern libraries and frameworks, practiced modular coding, and optimized performance.
+When developing the program, I adopted a systematic and structured approach. By defining project requirements and breaking them into manageable tasks, I ensure effective planning and organization. Throughout this project, I utilized modern libraries and frameworks, practiced modular coding, and optimized performance.
 
 ## Iteration in Development
 
@@ -23,7 +23,7 @@ Iteration played a crucial role in my development process. I continuously tested
 
 ## Evolving Development Approach
 
-My approach to developing code evolved significantly throughout the project milestones. I became proficient in problem-solving, code structuring, and debugging. Writing cleaner and efficient code improved readability and maintainability, equipping me with valuable skills for future endeavors.
+My approach to developing the code evolved significantly throughout the project milestones. I became proficient in problem-solving, code structuring, and debugging. Writing cleaner and efficient code improved readability and maintainability, equipping me with valuable skills for future endeavors.
 
 ## Computer Science and Goals
 
