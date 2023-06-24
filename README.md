@@ -1,9 +1,4 @@
 
-
-Sure! Here's the text you can copy into the ReadMe section of your GitHub repository:
-
-css
-Copy code
 # Project ReadMe
 
 ## Introduction
